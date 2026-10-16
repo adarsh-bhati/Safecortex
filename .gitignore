@@ -2,3 +2,5 @@ __pycache__/
 .env
 lib/
 *.mp4
+
+!SAFECORTEX_VIDEO.mp4
