@@ -2,9 +2,9 @@
 
 ## Demo Video
 
-[![🎥 Watch the Demo Video](https://img.shields.io/badge/🎥_Watch_the_Demo_Video-SafeCortex-red?style=for-the-badge)](https://github.com/adarsh-bhati/Safecortex/blob/main/SAFECORTEX_VIDEO.mp4)
+[![🎥 Watch the Demo Video](https://img.shields.io/badge/🎥_Watch_the_Demo_Video-SafeCortex-red?style=for-the-badge)](https://drive.google.com/drive/folders/1-K2r6mQ7fViXbXg-ier5qJU4i1BIJT8N?usp=sharing)
 
-▶️ [Click here to play the video](https://github.com/adarsh-bhati/Safecortex/blob/main/SAFECORTEX_VIDEO.mp4)
+▶️ [Click here to play the video](https://drive.google.com/drive/folders/1-K2r6mQ7fViXbXg-ier5qJU4i1BIJT8N?usp=sharing)
 
 **A multi-agent system where the graph is the memory, the coordinator, and the safety layer.**
 Built for the *Graph Hacks* hackathon (WeMakeDevs × FalkorDB).
