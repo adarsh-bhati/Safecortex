@@ -1,0 +1,12 @@
+falkordb
+groq
+google-generativeai
+streamlit
+fastapi
+uvicorn
+python-dotenv
+sentence-transformers
+pyvis
+networkx
+requests
+streamlit-autorefresh
